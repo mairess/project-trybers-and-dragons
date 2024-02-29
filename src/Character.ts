@@ -53,9 +53,7 @@ class Character implements Fighter {
     this._lifePoints = this._maxLifePoints;
   }
 
-  special(): void {
-    this._strength = 10;
-  }
+  special(): void { this._strength = 10; }
 }
 
 export default Character;
