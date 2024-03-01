@@ -16,9 +16,4 @@ class Dwarf extends Race {
   }
 }
 
-// const asd1 = new Dwarf('asdasd', 100);
-// const asd2 = new Dwarf('asdasd2', 100);
-// const asd3 = new Dwarf('asdasd3', 100);
-// console.log(asd3);
-
 export default Dwarf;
