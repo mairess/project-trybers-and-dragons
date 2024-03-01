@@ -20,8 +20,12 @@ const pvp = new PVP(player2, player3);
 
 const pve = new PVE(player1, [monster1, monster2]);
 
-function runBattles(battles: Battle[]) {
-  battles.forEach((battle: Battle) => { battle.fight(); });
+function runBattles(battles: Battle[]): void {
+//   for (let index = 0; index < battles.length; index += 1) {
+//     const battle = battles[index];
+//     battle.fight();
+//   }
+  battles.forEach((battle: Battle): void => { battle.fight(); });
 }
 
 export { 
