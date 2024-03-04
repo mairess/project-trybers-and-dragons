@@ -1,10 +1,11 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# <p align="center">Projeto Trybers and Dragons</p>
+
+## Contexto
+
+Este projeto consiste em uma estrutura de jogos de RPG, com raças, arquétipos e personagens. Com o objetivo de consolidar os princípios da Programação Orientada a Objetos `POO` e da arquitetura `SOLID`.
+
+## Competências desenvolvidas
+
+- Habilidade para Implementação em `TypeScript`, `Classes`, `Instâncias`, `Atributos`, `Métodos` e `Objetos`;.
+- Habilidade para usar `Composição` e `Interface`.
+- Conhecimento sobre `Programação Orientada a Objetos`: `Herança`, `Abstração`, `Encapsulamento` e `Polimorfismo`.
